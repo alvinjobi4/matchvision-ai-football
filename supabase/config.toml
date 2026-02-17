@@ -1,1 +1,10 @@
 project_id = "vnsqlafmralixeuemdma"
+
+[functions.football-api]
+verify_jwt = false
+
+[functions.predict]
+verify_jwt = false
+
+[functions.chat]
+verify_jwt = false

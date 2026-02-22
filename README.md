@@ -94,7 +94,7 @@ matchvision-ai/
 
 ---
 🌍 Live Demo
-https://matchvision-ai.vercel.app/
+https://matchvision-ai-football.vercel.app/
 
 
 📈 Future Enhancements
